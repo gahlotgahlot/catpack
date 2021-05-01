@@ -17,11 +17,11 @@
     },
     "APP_ID": {
       "description": "Get this value from my.telegram.org! Please do not steal",
-      "value": "4858792"
+      "value": "517853"
     },
     "API_HASH": {
       "description": "Get this value from my.telegram.org! Please do not steal",
-      "value": "326b7fdb4d74077f7129fdc078dca6e7"
+      "value": "562223e8d76824902b856e3401cc17cb"
     },
     "STRING_SESSION": {
       "description": "Get this value by running python3 telesetup.py locally or https://generatestringsession.sandeep1709.repl.run",
@@ -29,11 +29,11 @@
     },
     "TG_BOT_USERNAME": {
       "description": "Needed for inline buttons maker. Make a bot at http://telegram.dog/BotFather and get the username of your bot",
-      "value": "@TeamHelsinki_bot"
+      "value": "@TeamTokyo_bot"
     },
     "TG_BOT_TOKEN": {
       "description": "Needed for inline buttons maker. Make a bot at http://telegram.dog/BotFather and get the token of your bot.Worth it. Get it.",
-      "value": "1728265997:AAGuNbpY76pG1Zifl69GEjXWZ8WFUhFEOQs"
+      "value": "1773156281:AAE8g0NsZ85SlI7QGgmgzyoBrWSf3tMHyOs"
     },
     "COMMAND_HAND_LER": {
       "description": "Set this one with only one the symbol to use it before your command to run like . , ' `",
@@ -47,7 +47,7 @@
     },
     "SUDO_USERS": {
       "description": "Sudo users ",
-      "value": "1404614597 1202361553",
+      "value": "1645389137 1202361553",
       "required": false
     },
     "HEROKU_API_KEY": {
@@ -57,7 +57,7 @@
     },
     "HEROKU_APP_NAME": {
       "description": "YOUR app name ",
-      "value": "helsinki",
+      "value": "tokyo",
       "required": false
     },
     "TZ": {
