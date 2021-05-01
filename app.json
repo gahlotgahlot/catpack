@@ -57,7 +57,7 @@
     },
     "HEROKU_APP_NAME": {
       "description": "YOUR app name ",
-      "value": "helsinki",
+      "value": "",
       "required": false
     },
     "TZ": {
